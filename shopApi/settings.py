@@ -220,3 +220,5 @@ CKEDITOR_CONFIGS = {
         'width': 300,
     },
 }
+
+SWAGGER_SETTINGS = {"DEFAULT_GENERATOR_CLASS": "rest_framework.schemas.generators.BaseSchemaGenerator",}
